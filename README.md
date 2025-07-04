@@ -113,17 +113,6 @@ delivery_service_db
 
 notification_service_db
 
-⚙️ Configuration
-Key environment variables:
-
-SPRING_DATASOURCE_URL
-
-SPRING_DATASOURCE_USERNAME
-
-SPRING_DATASOURCE_PASSWORD
-
-JWT_SECRET
-
 Kubernetes config files are under the kubernetes/ directory.
 
 🔐 Security
